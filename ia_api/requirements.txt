@@ -1,0 +1,11 @@
+langgraph
+gradio
+fastapi
+uvicorn
+langchain
+langchain-openai
+langchain-core
+tenacity
+python-dotenv
+langgraph-supervisor
+langchain-tavily
